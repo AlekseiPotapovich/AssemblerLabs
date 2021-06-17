@@ -1,4 +1,4 @@
-;delet word befor known word
+;delete word befor known word
 .model small
 .stack 100h
 .data  
